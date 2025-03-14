@@ -4,7 +4,7 @@ A simple Windows application that checks your laptop's battery health by analyzi
 
 ## Features
 ✅ Generates a new battery report automatically.
-✅ Reads the latest battery report from the default `Documents` folder.
+✅ Reads the latest battery report from the default `C:\Users\[Username]` folder.
 ✅ Displays battery health percentage based on design and full charge capacity.
 ✅ Shows when the report was last generated.
 ✅ User-friendly interface with buttons to update and check battery health.
