@@ -11,10 +11,11 @@ A simple Windows application that checks your laptop's battery health by analyzi
 
 ## Prerequisites
 - Windows OS
+- Python (If you wish to use the python version)
 
 ## Installation
-1. Download the latest `.exe` file from the [Releases](https://github.com/toyg440/battery-health-checker/releases) page.
-2. Double-click the `.exe` file to launch the application.
+1. Download the latest `.exe` or the `.py` file from the [Releases](https://github.com/toyg440/battery-health-checker/releases) page.
+2. Double-click the `.exe` or the `.py` file to launch the application.
 
 ## Usage
 1. Click **"Update Report"** to generate a fresh battery report.
