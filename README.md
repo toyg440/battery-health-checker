@@ -23,4 +23,4 @@ A simple Windows application that checks your laptop's battery health by analyzi
 
 ---
 Made with ❤️ by Akshat
-
+Note: This project was made with 0 AI tools. #noAI
